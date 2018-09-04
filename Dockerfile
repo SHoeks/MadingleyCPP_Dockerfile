@@ -23,4 +23,4 @@ RUN apt-get -yq install curl \
 			libnetcdf-cxx-legacy-dev \	
 			libnetcdf-c++4-dev
 
-COPY setupDocker.sh /home/setupDocker.sh
+COPY getMadingley.sh /home/getMadingley.sh
